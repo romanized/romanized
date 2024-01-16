@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, Tailwind, Flutter / Dart & Firebase**
 
-- 👨‍💻 All of my projects are available at [https://nebicanlioglu.nl/](https://nebicanlioglu.nl/)
+- 👨‍💻 All of my projects are available at NL: [https://nebicanlioglu.nl/](https://nebicanlioglu.nl/) or EN: [https://nebicanlioglu.com/](https://nebicanlioglu.com/)
 
 - 💬 Ask me about **Anything!**
 
@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanized&show_icons=true&locale=en" alt="romanized" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanized&" alt="romanized" /></p>
 
