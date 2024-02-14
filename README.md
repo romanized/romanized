@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanized&label=Profile%20views&color=0e75b6&style=flat" alt="romanized" /> </p>
 
-- 🔭 I’m currently working on **a Flutter and Dart based mobile app**
+- 🔭 I’m currently following the **CS50x 2024 Computer Science course.**
 
 - 🌱 I’m currently learning **React, Typescript, Tailwind, Flutter / Dart & Firebase**
 
