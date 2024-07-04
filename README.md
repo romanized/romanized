@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanized&label=Profile%20views&color=0e75b6&style=flat" alt="romanized" /> </p>
 
-- 🔭 I’m currently following the **CS50x 2024 Computer Science course.**
+- 🔭 I’m currently following the **CS50x 2024 Computer Science course & PHP with Laravel for beginners - Become a Master in Laravel.**
 
-- 🌱 I’m currently learning **React, Typescript, Tailwind, Flutter / Dart & Firebase**
+- 🌱 I’m currently learning **React, Typescript, Tailwind, Laravel**
 
 - 👨‍💻 All of my projects are available at NL: [https://nebicanlioglu.nl/](https://nebicanlioglu.nl/) or EN: [https://nebicanlioglu.com/](https://nebicanlioglu.com/)
 
