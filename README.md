@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently following the **CS50x 2024 Computer Science course & PHP with Laravel for beginners - Become a Master in Laravel.**
 
-- 🌱 I’m currently learning **React, Typescript, Tailwind, Laravel**
+- 🌱 I’m currently learning **React, Typescript, Tailwind, Laravel, NPM.**
 
 - 👨‍💻 All of my projects are available at NL: [https://nebicanlioglu.nl/](https://nebicanlioglu.nl/) or EN: [https://nebicanlioglu.com/](https://nebicanlioglu.com/)
 
-- 💬 Ask me about **Anything about me or what I do!**
+- 💬 Ask me about **anything about me or what I do!**
 
 - ⚡ Something I like: **improving my self**
 
