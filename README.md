@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at NL: [https://nebicanlioglu.nl/](https://nebicanlioglu.nl/) or EN: [https://nebicanlioglu.com/](https://nebicanlioglu.com/)
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **Anything about me or what I do!**
 
-- ⚡ Something I like: **You**
+- ⚡ Something I like: **improving my self**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
