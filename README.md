@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working with **ReactJS, Typescript, Tailwind, PHP, NextJS, C & Python**
 
-- 👨‍💻 All of my projects are available at NL: [https://nebicanlioglu.com/](https://nebicanlioglu.com/) or EN: [https://nebicanlioglu.com/en/](https://nebicanlioglu.com/en/)
+- 👨‍💻 All of my projects and more about me available at NL: [https://nebicanlioglu.com/](https://nebicanlioglu.com/) or EN: [https://nebicanlioglu.com/en/](https://nebicanlioglu.com/en/)
 
 - 💬 Ask me about **anything; work, projects, my schoolcareer and more!**
 
