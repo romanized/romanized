@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently following the **CS50x 2025 Computer Science course**
 
-- 🌱 I’m currently working with **ReactJS, Typescript, Tailwind, PHP, NextJS, C & Python **
+- 🌱 I’m currently working with **ReactJS, Typescript, Tailwind, PHP, NextJS, C & Python**
 
 - 👨‍💻 All of my projects are available at NL: [https://nebicanlioglu.com/](https://nebicanlioglu.com/) or EN: [https://nebicanlioglu.com/en/](https://nebicanlioglu.com/en/)
 
