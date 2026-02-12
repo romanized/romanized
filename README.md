@@ -1,19 +1,19 @@
 [![MasterHead](https://nebicanlioglu.nl/2.gif)](https://nebicanlioglu.nl/)
-<h1 align="center">Hi 👋, I'm Nebi</h1>
+<h1 align="center">Hi, I'm Nebi</h1>
 <h3 align="center">A passionate Software Developer from The Netherlands</h3>
 <img align="right" alt="Coding" width="400" src="https://flow.org/img/featurette-bigger.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanized&label=Profile%20views&color=0e75b6&style=flat" alt="romanized" /> </p>
 
-- 🔭 I’m currently following the **CS50x 2025 Computer Science course**
+- I’m currently learning about **AZ-900 Azure Fundamentals**
 
-- 🌱 I’m currently working with **ReactJS, Typescript, Tailwind, PHP, NextJS, C & Python**
+- I work with languages like **ReactJS, Typescript, Tailwind, PHP, NextJS, C#, Python and more**
 
-- 👨‍💻 All of my projects and more about me available at NL: [https://nebicanlioglu.com/](https://nebicanlioglu.com/) or EN: [https://nebicanlioglu.com/en/](https://nebicanlioglu.com/en/)
+- All of my projects and more about me available at **EN: [https://nebicanlioglu.com/en/](https://nebicanlioglu.com/en/) or NL: [https://nebicanlioglu.com/](https://nebicanlioglu.com/)**
 
-- 💬 Ask me about **anything; work, projects, my schoolcareer and more!**
+- Ask me about **work, projects, my schoolcareer**
 
-- ⚡ Something I like: **improving my self**
+- Improving my self **every single day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
