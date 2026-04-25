@@ -1,25 +1,69 @@
-[![MasterHead](https://nebicanlioglu.nl/2.gif)](https://nebicanlioglu.nl/)
-<h1 align="center">Hi, I'm Nebi</h1>
-<h3 align="center">A computer science student from The Netherlands</h3>
-<img align="right" alt="Coding" width="400" src="https://flow.org/img/featurette-bigger.gif">
+<!-- ============================================================
+     Nebi Canlioglu — github.com/romanized
+     ============================================================ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanized&label=Profile%20views&color=0e75b6&style=flat" alt="romanized" /> </p>
+<a href="https://nebicanlioglu.com/en/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1F2D,100:F08A88&height=180&section=header&text=Nebi%20Canlioglu&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%94%20Rotterdam,%20NL&descSize=16&descAlignY=60&animation=fadeIn" alt="Nebi Canlioglu" />
+</a>
 
-- I’m currently learning about **AZ-900 Azure Fundamentals**
-
-- I work with languages like **ReactJS, Typescript, Tailwind, PHP, NextJS, C#, Python and more**
-
-- All of my projects and more about me available at **EN: [https://nebicanlioglu.com/en/](https://nebicanlioglu.com/en/) or NL: [https://nebicanlioglu.com/](https://nebicanlioglu.com/)**
-
-- Ask me about **work, projects, my schoolcareer**
-
-- Improving my self **every single day**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nebi-c-624919264" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=F08A88&center=true&vCenter=true&width=720&lines=Idea+%E2%86%92+live%2C+end-to-end.;Web+shops%2C+custom+platforms%2C+business+sites.;The+automations+that+quietly+do+the+work+behind+them.;No+tier+list%2C+no+sales+pitch." alt="What I do" />
+  </a>
 </p>
-<hr>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
+---
 
+### Hi, I'm Nebi.
+
+Full-stack developer based in Rotterdam. I take projects from idea to live — frontend, backend, hosting, the whole thing. I pick the right tools for the job rather than forcing one stack onto every problem.
+
+Right now I'm building **ContextSnip**, a cross-platform desktop app that turns screen recordings into AI-friendly annotated screenshots and transcripts.
+
+### Currently
+
+- 🛠️ Building client work and internal tooling end-to-end
+- 🎓 Studying Computer Science at Hogeschool Rotterdam
+- 📜 Working through **AZ-900 Azure Fundamentals**
+- 📬 Open to freelance work — *tell me what you want, I'll tell you if I can help and what it takes.*
+
+### Tech I actually reach for
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,php,laravel,cs,dotnet,python,mysql,postgres,prisma,docker,git,figma,vercel&perline=9" alt="Tech stack" />
+</p>
+
+Also comfortable in Liquid (Shopify), Lua (Roblox), and whatever else a project needs.
+
+---
+
+### Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=romanized&show_icons=true&count_private=true&hide_border=true&bg_color=2A1F2D&title_color=F08A88&icon_color=F08A88&text_color=EDE7E3&ring_color=F08A88" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=romanized&hide_border=true&background=2A1F2D&stroke=F08A88&ring=F08A88&fire=F08A88&currStreakLabel=F08A88&sideLabels=EDE7E3&currStreakNum=EDE7E3&sideNums=EDE7E3&dates=EDE7E3" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romanized&bg_color=2A1F2D&color=F08A88&line=F08A88&point=EDE7E3&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/romanized/romanized/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+---
+
+### Selected work
+
+Most of what I build lives with clients, not on GitHub. See selected projects, services, and how I work at **[nebicanlioglu.com](https://nebicanlioglu.com/en/)**.
+
+### Get in touch
+
+<p>
+  <a href="https://nebicanlioglu.com/en/"><img src="https://img.shields.io/badge/Portfolio-2A1F2D?style=for-the-badge&logo=safari&logoColor=F08A88" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nebi-canlioglu/"><img src="https://img.shields.io/badge/LinkedIn-2A1F2D?style=for-the-badge&logo=linkedin&logoColor=F08A88" alt="LinkedIn" /></a>
+  <a href="mailto:officialnebicanlioglu@gmail.com"><img src="https://img.shields.io/badge/Email-2A1F2D?style=for-the-badge&logo=gmail&logoColor=F08A88" alt="Email" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F08A88,100:2A1F2D&height=80&section=footer" alt="" />
