@@ -22,10 +22,10 @@ Right now I'm building **ContextSnip**, a cross-platform desktop app that turns 
 
 ### Currently
 
-- 🛠️ Building client work and internal tooling end-to-end
-- 🎓 Studying Computer Science at Hogeschool Rotterdam
-- 📜 Working through **AZ-900 Azure Fundamentals**
-- 📬 Open to freelance work — *tell me what you want, I'll tell you if I can help and what it takes.*
+- Building client work and internal tooling end-to-end
+- Studying Computer Science at Hogeschool Rotterdam
+- Working through **AZ-900 Azure Fundamentals**
+- Open to freelance work, *tell me what you want, I'll tell you if I can help and what it takes*
 
 ### Tech I actually reach for
 
@@ -33,7 +33,7 @@ Right now I'm building **ContextSnip**, a cross-platform desktop app that turns 
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,php,laravel,cs,dotnet,python,mysql,postgres,prisma,docker,git,figma,vercel&perline=9" alt="Tech stack" />
 </p>
 
-Also comfortable in Liquid (Shopify), Lua (Roblox), and whatever else a project needs.
+Also comfortable in Liquid (Shopify), Hosting, Custom made systems, and whatever else a project needs.
 
 ---
 
@@ -56,7 +56,10 @@ Also comfortable in Liquid (Shopify), Lua (Roblox), and whatever else a project 
 
 ### Selected work
 
-Most of what I build lives with clients, not on GitHub. See selected projects, services, and how I work at **[nebicanlioglu.com](https://nebicanlioglu.com/en/)**.
+Most of what I build lives with clients, not on GitHub. See selected projects, services, and how I work at:
+English **[nebicanlioglu.com](https://nebicanlioglu.com/en/)**
+or
+Dutch **[nebicanlioglu.com](https://nebicanlioglu.com/nl/)**.
 
 ### Get in touch
 
@@ -66,4 +69,4 @@ Most of what I build lives with clients, not on GitHub. See selected projects, s
   <a href="mailto:officialnebicanlioglu@gmail.com"><img src="https://img.shields.io/badge/Email-2A1F2D?style=for-the-badge&logo=gmail&logoColor=F08A88" alt="Email" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F08A88,100:2A1F2D&height=80&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F08A88,100:2A1F2D&height=80&section=footer" alt="Wave animation footer" />
