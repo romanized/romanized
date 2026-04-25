@@ -30,7 +30,7 @@ Right now I'm building **ContextSnip**, a cross-platform desktop app that turns 
 ### Tech I actually reach for
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,php,laravel,cs,dotnet,python,mysql,postgres,prisma,docker,git,figma,vercel&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,php,laravel,cs,dotnet,python,mysql,postgres,prisma,docker,git,figma,vercel,lua&perline=9" alt="Tech stack" />
 </p>
 
 Also comfortable in Liquid (Shopify), Hosting, Custom made systems, and whatever else a project needs.
