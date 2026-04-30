@@ -16,7 +16,7 @@
 
 ### Hi, I'm Nebi.
 
-Full-stack developer based in Rotterdam. I take projects from idea to live — frontend, backend, hosting, the whole thing. I pick the right tools for the job rather than forcing one stack onto every problem.
+Full-stack developer based in Rotterdam. I take projects from idea to live, anything from frontend, backend, hosting and more. I pick the right tools for the job rather than forcing one stack onto every problem.
 
 Right now I'm building **ContextSnip**, a cross-platform desktop app that turns screen recordings into AI-friendly annotated screenshots and transcripts.
 
@@ -33,7 +33,7 @@ Right now I'm building **ContextSnip**, a cross-platform desktop app that turns 
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,php,laravel,cs,dotnet,python,mysql,postgres,prisma,docker,git,figma,vercel,lua&perline=9" alt="Tech stack" />
 </p>
 
-Also comfortable in Liquid (Shopify), Hosting, Custom made systems, and whatever else a project needs.
+Also comfortable in Liquid (Shopify), hosting, custom systems, and whatever else a project needs.
 
 ---
 
@@ -56,10 +56,10 @@ Also comfortable in Liquid (Shopify), Hosting, Custom made systems, and whatever
 
 ### Selected work
 
-Most of what I build lives with clients, not on GitHub. See selected projects, services, and how I work at:
-English **[nebicanlioglu.com](https://nebicanlioglu.com/en/)**
-or
-Dutch **[nebicanlioglu.com](https://nebicanlioglu.com/nl/)**.
+Most of what I build lives with clients, not publicly on GitHub. See selected projects, services, and how I work at<br>
+English **[nebicanlioglu.com/en/](https://nebicanlioglu.com/en/)** <br>
+or <br>
+Dutch **[nebicanlioglu.com/nl/](https://nebicanlioglu.com/nl/)**
 
 ### Get in touch
 
