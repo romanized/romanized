@@ -18,7 +18,7 @@
 
 Full-stack developer based in Rotterdam. I take projects from idea to live, anything from frontend, backend, hosting and more. I pick the right tools for the job rather than forcing one stack onto every problem.
 
-Right now I'm building **ContextSnip**, a cross-platform desktop app that turns screen recordings into AI-friendly annotated screenshots and transcripts.
+Right now I'm building **ContextSnip**, a cross-platform desktop app that turns screen recordings into AI-friendly annotated screenshots and transcripts and **SoWhatsThePlan**, the best way to plan out your dream trips.
 
 ### Currently
 
