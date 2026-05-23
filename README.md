@@ -40,7 +40,6 @@ Also comfortable in Liquid (Shopify), hosting, custom systems, and whatever else
 ### Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=romanized&show_icons=true&count_private=true&hide_border=true&bg_color=2A1F2D&title_color=F08A88&icon_color=F08A88&text_color=EDE7E3&ring_color=F08A88" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=romanized&hide_border=true&background=2A1F2D&stroke=F08A88&ring=F08A88&fire=F08A88&currStreakLabel=F08A88&sideLabels=EDE7E3&currStreakNum=EDE7E3&sideNums=EDE7E3&dates=EDE7E3" alt="GitHub streak" />
 </p>
 
